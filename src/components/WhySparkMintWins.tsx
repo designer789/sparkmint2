@@ -81,7 +81,7 @@ export default function WhySparkMintWins() {
   return (
     <section ref={sectionRef} id="why-sparkmint" className="py-24 sm:py-32 md:py-40 lg:py-48 bg-[#18181B] relative overflow-hidden">
       <div className="container mx-auto px-4 relative z-10">
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-4xl mx-auto text-center">
           <div 
             ref={badgeRef}
             className="inline-block bg-spark-yellow/10 text-spark-yellow px-4 sm:px-6 py-1.5 sm:py-2 rounded-full text-xs sm:text-sm font-medium mb-5 sm:mb-6 md:mb-8"
