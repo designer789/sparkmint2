@@ -148,9 +148,7 @@ export default function Hero() {
           {/* CTA buttons with modern styling */}
           <div ref={buttonsRef} className="flex flex-col sm:flex-row items-center justify-center gap-4 md:gap-6 pt-8 md:pt-12">
             <a 
-              href="#" 
-              target="_blank" 
-              rel="noopener noreferrer" 
+              
               className="group w-full sm:w-auto bg-spark-yellow text-spark-dark px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg font-medium hover:bg-spark-yellow/90 transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-spark-yellow/20 opacity-0 inline-flex items-center justify-center"
             >
               Get Started
